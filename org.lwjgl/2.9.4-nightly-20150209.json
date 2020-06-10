@@ -10,6 +10,8 @@
             "downloads": {
                 "classifiers": {
                     "natives-linux": {
+                        "sha1": "1bc004d647a2e94d969c00a2bb2a472f37109f2d",
+                        "size": 10630,
                         "url": "https://jjtech0130.github.io/meta-downloads/jinput-platform-2.0.5-natives-linux.jar"
                     },
                     "natives-osx": {
@@ -65,6 +67,8 @@
                 },
                 "classifiers": {
                     "natives-linux": {
+                        "sha1": "0e42f35e5c3bb66ef274af87edc8fe5354fa215b",
+                        "size": 725657,
                         "url": "https://jjtech0130.github.io/meta-downloads/lwjgl-platform-2.9.4-nightly-20150209-natives-linux.jar"
                     },
                     "natives-osx": {
