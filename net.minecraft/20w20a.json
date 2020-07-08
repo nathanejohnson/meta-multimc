@@ -4,10 +4,10 @@
     ],
     "assetIndex": {
         "id": "1.16",
-        "sha1": "25474cd4241d4eeafa39d64846fc584513e91805",
-        "size": 292518,
-        "totalSize": 332034305,
-        "url": "https://launchermeta.mojang.com/v1/packages/25474cd4241d4eeafa39d64846fc584513e91805/1.16.json"
+        "sha1": "99dd5c579f767ef18071b1a0a698cdc9b7b5561e",
+        "size": 292388,
+        "totalSize": 327689505,
+        "url": "https://launchermeta.mojang.com/v1/packages/99dd5c579f767ef18071b1a0a698cdc9b7b5561e/1.16.json"
     },
     "formatVersion": 1,
     "libraries": [
