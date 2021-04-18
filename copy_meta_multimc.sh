@@ -12,8 +12,8 @@ else
 fi
 
 DIRS=$(cd "${UPSTREAM_REPO_PATH}";find . -type d ! -path './.git/*' ! -path './.git' ! -path './org.lwjgl3' ! -path './org.lwjgl' ! -path '.')
-for DIR in $DIRS; do
-	rm -rf ${DIR}
+for DIR in "${DIRS}"; do
+	rm -rf "${DIR}"
 	cp -a "${UPSTREAM_REPO_PATH}"/"${DIR}" .
-	git add ${DIR}
+	git add "${DIR}"
 done
